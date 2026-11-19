@@ -141,6 +141,8 @@ By completing this project, students can understand:
 🙏 Conclusion
 The Data Transformer project provides practical experience with important SQL operations. It helps develop a strong foundation in database querying and data analysis. These concepts are useful for working with business data, preparing reports, and solving real-world data problems.
 
+--Project Explanation Video :https://drive.google.com/file/d/1Dv_3ZHnwobTyQnAvVoa_QJkUWaPmeotg/view?usp=sharing
+
 Project: Data Transformer
 Technology: MySQL
 Purpose: SQL Practice and Data Analysis
